@@ -1,6 +1,6 @@
 cask "vibe-chat" do
-  version "0.0.3"
-  sha256 "332a771103dc906eacf96db256c0ca78c79aac9b1dacdfbce8da523f3ded2978"
+  version "0.0.4"
+  sha256 "1aed0803d394195df6734a4bd2b3cd2656195a09d6f1e151b4a5c5adc88cfe9c"
 
   url "https://download.vibesystems.com/downloads/vibe-chat/darwin/arm64/Vibe%20Chat-darwin-arm64-#{version}.zip"
   name "Vibe Chat"
