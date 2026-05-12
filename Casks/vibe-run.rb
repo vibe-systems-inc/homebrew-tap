@@ -1,6 +1,6 @@
 cask "vibe-run" do
-  version "0.2.2"
-  sha256 "4242aa7736d8d2b437570a5ebb364eaf80121ac832c5dca14fca607f9a3a36de"
+  version "0.3.0"
+  sha256 "d41b3ac4426b840cf9cf2a8a9a69510b342e1cabbde5a9673604f00b28583fbd"
 
   url "https://download.vibesystems.com/downloads/vibe-run/darwin/arm64/Vibe%20Run-#{version}-arm64.dmg"
   name "Vibe Run"
